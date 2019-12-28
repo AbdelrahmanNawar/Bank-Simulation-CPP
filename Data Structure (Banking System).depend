@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1577550764 source:a:\iti\data structure & algorithms\data structure (banking system)\main.cpp
+	<iostream>
+	<windows.h>
+
